@@ -1,1 +1,1 @@
-window.addEventListener("load", function() { alert("Hello it is me);});
+alert("Hello it is me");
